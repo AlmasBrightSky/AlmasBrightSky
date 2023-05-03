@@ -1,4 +1,4 @@
-### Opa, Bão?Meu nome é Lucas Almeida E seja Bem vindo(a) ao meu perfil👋
+### Opa, Bão? Meu nome é Lucas Almeida E seja Bem vindo(a) ao meu perfil👋
 
 
 - 🌱 Estudando React Js.
