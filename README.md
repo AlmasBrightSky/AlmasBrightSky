@@ -7,12 +7,6 @@
 
 <hr/>
 
-### 📈Status
-
-[![](https://github-readme-stats.vercel.app/api?username=AlmasBrightSky&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/AlmasBrightSky/github-readme-stats#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmasBrightSky&layout=compact&theme=tokyonight)](https://github.com/AlmasBrightSky/github-readme-stats)
-
-<hr/>
 
 ### 💻Linguagens que eu mais uso:
 
